@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | ls -al1
+find . -empty -print0
